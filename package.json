@@ -1,5 +1,5 @@
 {
-  "name": "socket.io-client",
+  "name": "@colin3dmax/socket.io-client",
   "version": "4.1.1",
   "keywords": [
     "realtime",
